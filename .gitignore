@@ -5,5 +5,6 @@ __pycache__/
 venv/
 data/*.csv
 !data/.gitkeep
+results/summary.txt
 !results/.gitkeep
 .DS_Store
